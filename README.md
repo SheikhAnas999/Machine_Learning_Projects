@@ -69,24 +69,6 @@ Each project includes:
 ---
 
 
-## ⭐ Star History
-
-If you find this repository helpful, please consider giving it a star! ⭐
-
----
-
-## 🗺️ Roadmap
-
-- [ ] Add more datasets integration
-- [ ] Implement model deployment scripts
-- [ ] Add Docker support
-- [ ] Create web demos for each project
-- [ ] Add TensorFlow implementations
-- [ ] Create video tutorials
-- [ ] Add more visualization tools
-
----
-
 ## 📚 References
 
 ### Papers
