@@ -14,13 +14,6 @@ This repository contains **20 advanced machine learning projects** covering the 
 - **Reinforcement Learning**: DQN, Policy Optimization
 - **Advanced Topics**: AutoML, Federated Learning, Multi-Modal Learning
 
-Each project includes:
-- ✅ Complete, working code
-- ✅ Jupyter Notebook format
-- ✅ Training & evaluation pipelines
-- ✅ Visualization & metrics
-- ✅ Detailed documentation
-
 ## 📚 References
 
 ### Papers
