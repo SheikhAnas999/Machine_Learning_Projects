@@ -1,6 +1,6 @@
 # 🤖 Machine Learning Projects Portfolio
 
-> A comprehensive collection of 10+ production-ready machine learning projects demonstrating advanced ML/DL techniques across Computer Vision, NLP, Time Series, and Reinforcement Learning.
+> A comprehensive collection of 10+ machine learning projects demonstrating advanced ML/DL techniques across Computer Vision, NLP, Time Series, and Reinforcement Learning.
 
 ## 🎯 Overview
 
